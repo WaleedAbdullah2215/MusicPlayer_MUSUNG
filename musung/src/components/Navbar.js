@@ -6,7 +6,7 @@ const Navbar = ({ currentPage, setCurrentPage, currentTrack, darkMode, setDarkMo
     <nav className={`navbar ${darkMode ? 'dark' : ''}`}>
       <div className="navbar-content">
         <div className="navbar-left">
-          <h1 className="navbar-brand">MUSUNG_BY_WALEED</h1>
+          <h1 className="navbar-brand">MUSUNG</h1>
           <div className="nav-links">
             <button
               onClick={() => setCurrentPage('home')}
