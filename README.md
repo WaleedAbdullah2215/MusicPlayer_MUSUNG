@@ -35,8 +35,13 @@ SOme of the key features of my app include:
     Track Details: Shows song title, artist, album, and genre.
     Progress & Duration: Visual timeline with formatted time display.
     Various Options: Can shuffle or repeat and moreee.
+
+6. User friendly UI and Adaptable
+   Works on different devices
+   Screen sizes and everythign changes accordingly
+   Accurately adapts and doesnt ruin looks on different machines
    
-7. Mini Player
+8. Mini Player
     Compact Controls: Appears at the bottom when a track is playing.
     Quick Access: Shows the current track’s cover, title, and artist name.
     Allows Flexibility: User can move aroudn pages while also stayign aware of song playing and details about itt.
@@ -49,12 +54,24 @@ SOme of the key features of my app include:
     Sample Tracks: If API calls fail, the app defaults to a preloaded set of songs and user can play adn lsiten to them fully not just          their previeww.
     User-Friendly Errors: Clear messages when issues occur, clearly explains to the user whats wrongg
 
-    <img width="1440" alt="Screenshot 2025-06-17 at 12 36 36" src="https://github.com/user-attachments/assets/2ed8bfec-5bd6-4471-bf12-3404a5585422" />
+11. Detailed Footer
+    Footer shows all contact links
+    Users can easily access adn get in touch with developer
+    All copyrights reserved and lawfully covered.
 
-    <img width="1440" alt="Screenshot 2025-06-17 at 12 40 45" src="https://github.com/user-attachments/assets/4365549a-a685-4ced-9bed-155e86da2ca0" />
 
-    <img width="1438" alt="Screenshot 2025-06-17 at 12 43 48" src="https://github.com/user-attachments/assets/a986871e-dd56-4930-9ab4-60f30739a6d1" />
+    <img width="1440" alt="Screenshot 2025-06-17 at 16 59 05" src="https://github.com/user-attachments/assets/f6cf9759-0ee4-4c03-bfa2-86a773efd2cb" />
 
-    <img width="1440" alt="Screenshot 2025-06-17 at 12 42 45" src="https://github.com/user-attachments/assets/3de21c6d-72b9-4988-adf8-fddeaa56bde3" />
 
-    <img width="1440" alt="Screenshot 2025-06-17 at 12 44 21" src="https://github.com/user-attachments/assets/cb6c532d-aef0-40f3-89f9-a52993ff5e5a" />
+    <img width="1440" alt="Screenshot 2025-06-17 at 17 01 50" src="https://github.com/user-attachments/assets/94586960-54f6-427b-8338-7915235f9feb" />
+
+
+    <img width="1440" alt="Screenshot 2025-06-17 at 17 02 13" src="https://github.com/user-attachments/assets/7449b725-0a44-4bb6-933b-7bb11f743d6f" />
+
+
+    <img width="1440" alt="Screenshot 2025-06-17 at 17 02 38" src="https://github.com/user-attachments/assets/0970e50c-c3fc-49b4-b7d2-0e2fd223b893" />
+
+
+    <img width="1439" alt="Screenshot 2025-06-17 at 17 03 33" src="https://github.com/user-attachments/assets/157940e8-7899-45b9-af3a-c402a3d000ae" />
+
+
